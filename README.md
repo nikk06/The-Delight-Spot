@@ -1,2 +1,2 @@
 # The-Delight-Spot
-This is an AI Analysis bases restro website
+This is an AI Analysis based restro website
